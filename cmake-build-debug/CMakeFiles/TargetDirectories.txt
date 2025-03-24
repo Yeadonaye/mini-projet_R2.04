@@ -1,0 +1,3 @@
+C:/Users/ashen/CLionProjects/mini_projet/cmake-build-debug/CMakeFiles/mini_projet.dir
+C:/Users/ashen/CLionProjects/mini_projet/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/ashen/CLionProjects/mini_projet/cmake-build-debug/CMakeFiles/rebuild_cache.dir
